@@ -1,8 +1,3 @@
-下面是一份**适合直接放在 GitHub 仓库 README 中的 Homework 说明文档**。
-风格尽量 **工程化 + 简洁 + 开放设计空间**，方便你筛选候选人的架构能力、工程能力和 AI 使用能力。
-
----
-
 # Homework: Multi-Tenant Static Site Auto Deployment
 
 ## Background
